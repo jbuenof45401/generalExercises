@@ -87,7 +87,24 @@ def si_es_par(num):
     param num: numero para validar si es o no par
     :return: str mensaje que indica si el numero es par
     '''
-
-
-
     return print('el numero ',num,' es par ',par(num))
+
+
+def area_circulo(radio):
+    '''
+    (num) -> float
+
+    >>> area_circulo(3)
+    25.82484413952496
+
+    >>> area_circulo(2)
+    10.566370614359172
+    :param radio: num: el radio de un circulo
+    :return: el area del circulo
+    '''
+
+    areaCirculo = math.pi * (radio**2)
+    areacuadrado = math.sqrt((radio+radio))
+
+    return areaCirculo-areacuadrado
+
