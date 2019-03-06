@@ -2,8 +2,8 @@ import time
 
 def armar_mensajes(numero):
     '''
-
     (float) -> str
+
     recibe numero float y retorna
 
     >>> armar_mensajes(3)
@@ -34,15 +34,12 @@ def quien_es_mayor(edad_uno,edad_dos):
     'El mayor es el primero'
 
     >>> quien_es_mayor(29,29)
-    'los dos tienen la misma edad'
+    'Ambos tienen la misma edad'
 
     :param edad_uno: num: edad primer persona
     :param edad_dos: num: edad segunda persona
     :return: str: mensaje si es mayor, menor o tienen la misma edad
     '''
-
-    mensaje = ''
-
     if (edad_uno > edad_dos):
         mensaje = 'El mayor es el primero'
     elif (edad_uno < edad_dos):
@@ -77,4 +74,93 @@ def saludo_segun_hora(hora):
     else:
         return 'Buenas noches'
 
-print(saludo_segun_hora(int(time.strftime("%H"))))
+def parentesis(caracter):
+    '''
+    (str of len = 1) -> str
+
+    Analisa si el caracter recibido es un parentesis
+
+    >>> parentesis('c')
+
+
+    >>> parentesis('(')
+    'El caracter es un parentesis'
+
+    >>> parentesis('xa')
+    Traceback (most recent call last):
+    ..
+    TypeError: xa no es un parentesis
+
+    :param caracter: char: caracter a analisar
+    :return: str: el mensaje indicando si es o no parentesis
+    '''
+    if(len(caracter)!=1):
+        raise TypeError(str(caracter) + ' no es un parentesis')
+    if(caracter in '()'):
+        return 'El caracter es un parentesis'
+
+
+
+def division(dividendo,divisor):
+    '''
+    (num,num) -> float
+
+    divide un nùmero entre otro
+
+    >>> division(3,3)
+    1.0
+
+    >>> division(3,0)
+    Traceback (most recent call last):
+    ..
+    ZeroDivisionError
+
+    >>> division('sjd',34)
+    Traceback (most recent call last):
+    ..
+    TypeError: sjd or 34 no son numeros
+
+    >>> division([1,2,3],3)
+    Traceback (most recent call last):
+    ..
+    TypeError: [1, 2, 3] or 3 no son numeros
+
+    >>> division(1,0.0)
+    Traceback (most recent call last):
+    ..
+    ZeroDivisionError
+
+    :param dividendo: num: el numero a dividir
+    :param divisor: num: el numero que divide
+    :return: float: el resultado de la divisiòn
+    '''
+    if(int != type(dividendo) != float):
+        raise TypeError(str(dividendo) + ' or ' + str(divisor) + ' no son numeros')
+    elif (int != type(divisor) != float):
+        raise TypeError(str(dividendo) + ' or ' + str(divisor) + ' no son numeros')
+    elif(divisor==0):
+        raise ZeroDivisionError
+    return dividendo/divisor
+
+
+def el_doble_impar(numero):
+    '''
+    (int)-> str
+
+    determina si el numero ingresado es el doble de un numero impar
+
+    >>> el_doble_impar('str')
+    Traceback (most recent call last):
+    ..
+    TypeError: str no es un entero
+
+    >>> el_doble_impar(14)
+    'El numero 14 es el doble de 7.0, que es impar'
+
+    :param numero: entero a validar
+    :return: str: si el numero es el doble de un entero retorna el mensaje correspondiente
+    '''
+    if(int!= type(numero)):
+        raise TypeError(str(numero) + " no es un entero")
+    if(numero%2==0):
+        return 'El numero ' + str(numero) + ' es el doble de ' + str(numero/2) + ', que es impar'
