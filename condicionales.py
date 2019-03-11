@@ -1,5 +1,3 @@
-import time
-
 def armar_mensajes(numero):
     '''
     (float) -> str
@@ -15,6 +13,9 @@ def armar_mensajes(numero):
     :param numero: float el numero flotante a validar
     :return: str: si es positivo o negativo
     '''
+
+    if(int != type(numero)):
+        raise  TypeError('debe ingresar solo enteros')
 
     if(numero<0):
         return 'El numero es negativo'
@@ -40,6 +41,9 @@ def quien_es_mayor(edad_uno,edad_dos):
     :param edad_dos: num: edad segunda persona
     :return: str: mensaje si es mayor, menor o tienen la misma edad
     '''
+    if(int != type(edad_uno)!=type(edad_dos)):
+        raise TypeError('ingrese solo numeros enteros')
+
     if (edad_uno > edad_dos):
         mensaje = 'El mayor es el primero'
     elif (edad_uno < edad_dos):
@@ -66,6 +70,8 @@ def saludo_segun_hora(hora):
     :param hora: num: la hora actual
     :return: str: el saludo segun la hora
     '''
+    if(int != type(hora)):
+        raise TypeError('ingrese solo numeros enteros')
 
     if(hora<12):
         return 'Buenos dias'
@@ -98,8 +104,6 @@ def parentesis(caracter):
         raise TypeError(str(caracter) + ' no es un parentesis')
     if(caracter in '()'):
         return 'El caracter es un parentesis'
-
-
 
 def division(dividendo,divisor):
     '''
@@ -141,7 +145,6 @@ def division(dividendo,divisor):
     elif(divisor==0):
         raise ZeroDivisionError
     return dividendo/divisor
-
 
 def el_doble_impar(numero):
     '''

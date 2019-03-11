@@ -107,5 +107,3 @@ def area_circulo(radio):
     areacuadrado = math.sqrt((radio+radio))
 
     return areaCirculo-areacuadrado
-
-print(area_circulo(10))
