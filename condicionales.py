@@ -1,3 +1,32 @@
+def numero_negativo(num):
+    '''
+    (num)-> bool
+
+    determina si el numero es negativo
+
+    >>> numero_negativo(-2)
+    'el numero es negativo'
+
+    >>> numero_negativo(2)
+    'el numero es positivo'
+
+    >>> numero_negativo('ff')
+    Traceback (most recent call last):
+    ..
+    TypeError: <class 'str'> no es un entero
+
+    :return: str: true si es negativo
+    '''
+    if(int!=type(num)!=float):
+        raise TypeError(str(type(num))+' no es un entero')
+
+    if(num<0):
+        return 'el numero es negativo'
+    else:
+        return 'el numero es positivo'
+
+
+
 def armar_mensajes(numero):
     '''
     (float) -> str
@@ -167,3 +196,75 @@ def el_doble_impar(numero):
         raise TypeError(str(numero) + " no es un entero")
     if(numero%2==0):
         return 'El numero ' + str(numero) + ' es el doble de ' + str(numero/2) + ', que es impar'
+
+def par_o_impar(num):
+    '''
+    (float)->str
+    imprime un mensaje si el numero es par o no
+
+    >>> par_o_impar(2)
+    'el numero es par'
+
+    >>> par_o_impar(3)
+    'el numero es impar'
+
+    >>> par_o_impar('s')
+    Traceback (most recent call last):
+    ..
+    TypeError: <class 'str'> no es un entero
+
+    :param: num: el numero a analizar
+    :return: str: mensaje si el numero es par o impar
+    '''
+
+    if(int !=type(num)):
+        raise TypeError(str(type(num)) + ' no es un entero')
+
+    if(num<0):
+        raise TypeError('el numero no debe ser menor a 0')
+    elif(par(num)):
+        return 'el numero es par'
+    else:
+        return 'el numero es impar'
+
+def numero_primo(num):
+    '''
+    (int)-> str: si es primo o no
+
+    >>> numero_primo(31)
+    'es un numero primo'
+
+    >>> numero_primo(400)
+    'no es un numero primo'
+
+    >>> numero_primo('s')
+    Traceback (most recent call last):
+    ..
+    TypeError: <class 'str'> no es un entero
+
+    :param num: numero a determinar si es o no primo
+    :return: str: mensaje si el numero es primo o no
+    '''
+
+    if(int != type(num)):
+        raise  TypeError(str(type(num))+ ' no es un entero')
+
+    if((num%2==0 and num!=2) or (num%3==0 and num!=3) or (num%5==0 and num!=5) or (num%7==0 and num != 7)):
+        return 'no es un numero primo'
+    else:
+        return 'es un numero primo'
+
+
+def par(num):
+    '''
+    (bool)->bool...
+
+    si es impar false, si no true
+    >>>par(1)
+    false
+    >>>par(2)
+    true
+    :param num:representa un numero entero
+    :return: bool, si el numero es par true, si no false
+    '''
+    return num%2==0
