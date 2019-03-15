@@ -31,5 +31,5 @@ class Test_ejercicios(TestCase):
 
         #Ejercicio 8
         self.assertRaises(TypeError,c.numero_primo,'ddd')
-        self.assertEqual(c.numero_primo(13),'es un numero primo')
+        self.assertEqual(c.numero_primo(409),'es un numero primo')
         self.assertEqual(c.numero_primo(1872),'no es un numero primo')

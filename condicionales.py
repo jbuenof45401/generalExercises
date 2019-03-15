@@ -196,10 +196,21 @@ def numero_primo(num):
     if(int != type(num)):
         raise TypeError(str(type(num))+ ' no es un entero')
 
-    if((num%2==0 and num!=2) or (num%3==0 and num!=3) or (num%5==0 and num!=5) or (num%7==0 and num != 7)):
-        return 'no es un numero primo'
-    else:
+    if num==2:
         return 'es un numero primo'
+    elif num<2:
+        return 'no es un numero primo'
+
+
+    temp = 2
+    while (temp < num):
+        if (num % temp == 0):
+            return 'no es un numero primo'
+        temp += 1
+
+        if ((num/temp)<temp or temp == num):
+            return 'es un numero primo'
+
 
 
 def par(num):
