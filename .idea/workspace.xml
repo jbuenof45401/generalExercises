@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" line="101" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1cbcebee-e3b5-4d1b-8fb5-853268bc2c91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ControlExcepciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones_listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problemas_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_for/recorrer_al_revez.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_for/vector_escalar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_for/vectores_menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_for/while_impar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/condicionales.py" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejerciciosIn.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejerciciosIn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_ejercicios.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_ejercicios.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/condicionales.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="207" column="16" selection-start-line="207" selection-start-column="16" selection-end-line="207" selection-end-column="16" />
+            <state relative-caret-position="51">
+              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding>
                 <element signature="e#47#583#0" />
                 <element signature="e#640#1390#0" />
@@ -24,52 +40,70 @@
                 <element signature="e#2130#2774#0" />
                 <element signature="e#2820#3588#0" />
                 <element signature="e#3645#4650#0" />
-                <element signature="e#6124#6621#0" />
-                <element signature="e#6659#7651#0" />
-                <element signature="e#7683#13760#1" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conditional_exercises.py">
+        <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="153" column="10" lean-forward="true" selection-start-line="153" selection-start-column="10" selection-end-line="153" selection-end-column="10" />
+            <state relative-caret-position="155">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
               <folding>
-                <element signature="e#27#408#0" />
-                <element signature="e#431#896#0" />
-                <element signature="e#940#1737#0" />
-                <element signature="e#1784#2775#0" />
-                <element signature="e#2804#3000#0" />
-                <element signature="e#2804#2911#1" />
-                <element signature="e#3031#3611#0" />
-                <element signature="e#10020#11234#0" />
+                <element signature="e#363#584#2" />
+                <element signature="e#1844#2507#0" />
+                <element signature="e#1489#1708#2" />
+                <element signature="e#2683#3368#0" />
+                <element signature="e#2683#2786#2" />
+                <element signature="e#3395#3694#0" />
+                <element signature="e#3395#3505#2" />
+                <element signature="e#3880#4083#0" />
+                <element signature="e#3995#4133#0" />
+                <element signature="e#3850#4105#0" />
+                <element signature="e#3850#3993#2" />
+                <element signature="e#4284#4775#0" />
+                <element signature="e#4284#4447#2" />
+                <element signature="e#4745#4919#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+              <folding>
+                <element signature="e#99#510#0" />
+                <element signature="e#540#616#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_condicionales.py">
+        <entry file="file://$PROJECT_DIR$/while_for/vectores_menu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="-153">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#90#501#0" />
+                <element signature="e#531#607#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_conditional_exercises.py">
+        <entry file="file://$PROJECT_DIR$/test_ejercicios.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="51">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#94#1844#0" />
               </folding>
             </state>
           </provider>
@@ -84,6 +118,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>par(</find>
+      <find>par</find>
+      <find>par(2)</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -96,6 +137,9 @@
         <option value="$PROJECT_DIR$/test_condicionales.py" />
         <option value="$PROJECT_DIR$/test_ejercicios.py" />
         <option value="$PROJECT_DIR$/condicionales.py" />
+        <option value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
+        <option value="$PROJECT_DIR$/while_for/vectores_menu.py" />
+        <option value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py" />
       </list>
     </option>
   </component>
@@ -117,6 +161,17 @@
               <item name="generalExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="generalExercises" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="generalExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generalExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="while_for" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generalExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generalExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="while_for" type="462c0819:PsiDirectoryNode" />
+              <item name="taller_listas_dic_bucles" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -125,7 +180,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/condicionales.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -140,37 +195,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_ejercicios.Test_ejercicios">
-    <configuration name="Doctest cuadrado_del_primero" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Doctests in ejercicios de listas">
+    <configuration name="Doctest comparar" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="testingpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicionales.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
       <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="cuadrado_del_primero" />
+      <option name="METHOD_NAME" value="comparar" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_FUNCTION" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctest numero_negativo" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctest desviacion_estandar" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="testingpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicionales.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
       <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="numero_negativo" />
+      <option name="METHOD_NAME" value="desviacion_estandar" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest norma" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="testingpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="norma" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_FUNCTION" />
       <option name="PATTERN" value="" />
@@ -195,36 +268,18 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctest numeros_primos" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctest suma" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="testingpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditional_exercises.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
       <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="numeros_primos" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_FUNCTION" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Doctest par_o_impar" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="testingpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicionales.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="par_o_impar" />
+      <option name="METHOD_NAME" value="suma" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_FUNCTION" />
       <option name="PATTERN" value="" />
@@ -249,16 +304,16 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in " type="tests" factoryName="Doctests" nameIsGenerated="true">
+    <configuration name="Doctests in ejercicios de listas" type="tests" factoryName="Doctests" temporary="true">
       <module name="testingpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="C:\Users\sebas\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -267,18 +322,22 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_ejercicios.Test_ejercicios" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests in ejercicios" type="tests" factoryName="Doctests" nameIsGenerated="true">
       <module name="testingpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\sebas\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_ejercicios.Test_ejercicios&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in condicionales.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
@@ -312,24 +371,24 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Doctests in " />
+      <item itemvalue="Python tests.Doctests in ejercicios" />
       <item itemvalue="Python tests.Unittests in condicionales.py" />
       <item itemvalue="Python tests.Doctest " />
       <item itemvalue="Python tests.pytest in condicionales.py" />
       <item itemvalue="Python tests.Doctest numero_primo" />
-      <item itemvalue="Python tests.Doctest par_o_impar" />
-      <item itemvalue="Python tests.Doctest numeros_primos" />
-      <item itemvalue="Python tests.Doctest numero_negativo" />
-      <item itemvalue="Python tests.Doctest cuadrado_del_primero" />
-      <item itemvalue="Python tests.Unittests for test_ejercicios.Test_ejercicios" />
+      <item itemvalue="Python tests.Doctest norma" />
+      <item itemvalue="Python tests.Doctest comparar" />
+      <item itemvalue="Python tests.Doctests in ejercicios de listas" />
+      <item itemvalue="Python tests.Doctest desviacion_estandar" />
+      <item itemvalue="Python tests.Doctest suma" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for test_ejercicios.Test_ejercicios" />
-        <item itemvalue="Python tests.Doctest cuadrado_del_primero" />
-        <item itemvalue="Python tests.Doctest numero_negativo" />
-        <item itemvalue="Python tests.Doctest numeros_primos" />
-        <item itemvalue="Python tests.Doctest par_o_impar" />
+        <item itemvalue="Python tests.Doctests in ejercicios de listas" />
+        <item itemvalue="Python tests.Doctest suma" />
+        <item itemvalue="Python tests.Doctest desviacion_estandar" />
+        <item itemvalue="Python tests.Doctest comparar" />
+        <item itemvalue="Python tests.Doctest norma" />
       </list>
     </recent_temporary>
   </component>
@@ -362,35 +421,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.12 at 14h 02m 57s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctest_suma - 2019.04.21 at 21h 36m 53s.xml">
+      <configuration name="Doctest suma" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.12 at 14h 06m 16s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctest_suma - 2019.04.21 at 21h 37m 25s.xml">
+      <configuration name="Doctest suma" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.12 at 14h 06m 25s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctests_in_ejercicios_de_listas - 2019.04.21 at 21h 38m 44s.xml">
+      <configuration name="Doctests in ejercicios de listas" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.12 at 14h 06m 47s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctest_suma - 2019.04.21 at 21h 53m 59s.xml">
+      <configuration name="Doctest suma" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.12 at 14h 07m 19s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctest_suma - 2019.04.21 at 21h 54m 35s.xml">
+      <configuration name="Doctest suma" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.12 at 14h 07m 31s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctest_suma - 2019.04.21 at 21h 55m 40s.xml">
+      <configuration name="Doctest suma" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.12 at 14h 08m 39s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctest_suma - 2019.04.21 at 21h 55m 53s.xml">
+      <configuration name="Doctest suma" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.12 at 14h 09m 01s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctest_suma - 2019.04.21 at 21h 58m 14s.xml">
+      <configuration name="Doctest suma" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.14 at 17h 24m 21s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctest_suma - 2019.04.21 at 21h 59m 46s.xml">
+      <configuration name="Doctest suma" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_ejercicios_Test_ejercicios - 2019.03.14 at 17h 24m 28s.xml">
-      <configuration name="Unittests for test_ejercicios.Test_ejercicios" configurationId="tests" />
+    <history-entry file="Doctests_in_ejercicios_de_listas - 2019.04.21 at 21h 59m 58s.xml">
+      <configuration name="Doctests in ejercicios de listas" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -407,7 +466,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -415,7 +474,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32850242" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.58615136" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.58615136" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -473,8 +532,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pruebas_funciones.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -483,25 +542,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="78" lean-forward="true" selection-start-line="65" selection-end-line="78" />
+        <state relative-caret-position="408">
+          <caret line="78" selection-start-line="65" selection-end-line="78" />
           <folding>
             <element signature="e#43#321#0" />
             <element signature="e#369#709#0" />
             <element signature="e#762#1133#0" />
             <element signature="e#1176#1795#0" />
             <element signature="e#2405#2730#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_ejercicios.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#94#1844#0" />
           </folding>
         </state>
       </provider>
@@ -520,8 +568,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conditional_exercises.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="153" column="10" lean-forward="true" selection-start-line="153" selection-start-column="10" selection-end-line="153" selection-end-column="10" />
+        <state relative-caret-position="238">
+          <caret line="153" column="10" selection-start-line="153" selection-start-column="10" selection-end-line="153" selection-end-column="10" />
           <folding>
             <element signature="e#27#408#0" />
             <element signature="e#431#896#0" />
@@ -537,8 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_condicionales.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="51">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -555,10 +603,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_ejercicios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#94#1844#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/condicionales.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="207" column="16" selection-start-line="207" selection-start-column="16" selection-end-line="207" selection-end-column="16" />
+        <state relative-caret-position="51">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
             <element signature="e#47#583#0" />
             <element signature="e#640#1390#0" />
@@ -566,9 +625,51 @@
             <element signature="e#2130#2774#0" />
             <element signature="e#2820#3588#0" />
             <element signature="e#3645#4650#0" />
-            <element signature="e#6124#6621#0" />
-            <element signature="e#6659#7651#0" />
-            <element signature="e#7683#13760#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#363#584#2" />
+            <element signature="e#1844#2507#0" />
+            <element signature="e#1489#1708#2" />
+            <element signature="e#2683#3368#0" />
+            <element signature="e#2683#2786#2" />
+            <element signature="e#3395#3694#0" />
+            <element signature="e#3395#3505#2" />
+            <element signature="e#3880#4083#0" />
+            <element signature="e#3995#4133#0" />
+            <element signature="e#3850#4105#0" />
+            <element signature="e#3850#3993#2" />
+            <element signature="e#4284#4775#0" />
+            <element signature="e#4284#4447#2" />
+            <element signature="e#4745#4919#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while_for/vectores_menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#90#501#0" />
+            <element signature="e#531#607#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <folding>
+            <element signature="e#99#510#0" />
+            <element signature="e#540#616#0" />
           </folding>
         </state>
       </provider>
