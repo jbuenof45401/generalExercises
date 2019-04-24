@@ -21,7 +21,140 @@ def mostrar_vectores():
         print (nombre, 'contiene', vectores[nombre])
 
 def op_suma():
+    flag = 1
+    seleccion=[]
+    if(len(vectores)<2):
+        print ('debe haber ingresado almenos dos vectores, seleccione la opcion 1 para hacerlo')
+        return None
+    while flag<=2:
+        try:
+            print('escoja el vector numero ',flag)
+            mostrar_vectores()
+            seleccion.append(input())
+            flag+=1
+        except:
+            print('la opcion no es valida, ingrese el nombre del vector que desee')
+    print('la suma es ',
+    l.suma(vectores[seleccion[0]],vectores[seleccion[1]]))
 
+def op_producto_punto():
+    flag = 1
+    seleccion=[]
+    if(len(vectores)<2):
+        print ('debe haber ingresado almenos dos vectores, seleccione la opcion 1 para hacerlo')
+        return None
+    while flag<=2:
+        try:
+            print('escoja el vector numero ',flag)
+            mostrar_vectores()
+            seleccion.append(input())
+            flag+=1
+        except:
+            print('la opcion no es valida, ingrese el nombre del vector que desee')
+    print('el producto punto es ',
+          l.producto_punto(vectores[seleccion[0]],vectores[seleccion[1]]))
+def op_mayor_elemento():
+    flag = 1
+    seleccion=[]
+    if(len(vectores)<1):
+        print ('debe haber ingresado almenos 1 vector, seleccione la opcion 1 para ingresar vectores')
+        return None
+
+    while flag<=1:
+        try:
+            print('escoja el vector numero ',flag)
+            mostrar_vectores()
+            seleccion.append(input())
+            flag+=1
+        except:
+            print('la opcion no es valida, ingrese el nombre del vector que desee')
+    print('el mayor elemento del vector es ',
+          l.mayor_elemento(vectores[seleccion[0]]))
+def op_menor_elemento():
+    flag = 1
+    seleccion=[]
+    if(len(vectores)<1):
+        print('debe haber ingresado almenos 1 vector, seleccione la opcion 1 para ingresar vectores')
+        return None
+    while flag<=1:
+        try:
+            print('escoja el vector numero ',flag)
+            mostrar_vectores()
+            seleccion.append(input())
+            flag+=1
+        except:
+            print('la opcion no es valida, ingrese el nombre del vector que desee')
+    print('el menor elemento del vector es ',
+          l.menor_elemento(vectores[seleccion[0]]))
+
+def promedio():
+    flag = 1
+    seleccion=[]
+    if(len(vectores)<1):
+        print('debe haber ingresado almenos 1 vector, seleccione la opcion 1 para ingresar vectores')
+        return None
+    while flag<=1:
+        try:
+            print('escoja el vector numero ',flag)
+            mostrar_vectores()
+            seleccion.append(input())
+            flag+=1
+        except:
+            print('la opcion no es valida, ingrese el nombre del vector que desee')
+    print('el promedio del vector es ',
+          l.promedio(vectores[seleccion[0]]))
+
+def op_desviacion_estandart():
+    flag = 1
+    seleccion=[]
+    if(len(vectores)<1):
+        print('debe haber ingresado almenos 1 vector, seleccione la opcion 1 para ingresar vectores')
+        return None
+    while flag<=1:
+        try:
+            print('escoja el vector numero ',flag)
+            mostrar_vectores()
+            seleccion.append(input())
+            flag+=1
+        except:
+            print('la opcion no es valida, ingrese el nombre del vector que desee')
+    print('la desviacion estandar del vector es ',
+          l.desviacion_estandar(vectores[seleccion[0]]))
+
+def op_comparar():
+    flag = 1
+    seleccion=[]
+    if(len(vectores)<2):
+        print('debe haber ingresado almenos dos vectores, seleccione la opcion 1 para ingresar vectores')
+        return None
+    while flag<=2:
+        try:
+            print('escoja el vector numero ',flag)
+            mostrar_vectores()
+            seleccion.append(input())
+            flag+=1
+        except:
+            print('la opcion no es valida, ingrese el nombre del vector que desee')
+    print('el vector ', seleccion[0] ,' es ',
+          l.comparar(vectores[seleccion[0]],vectores[seleccion[1]]), ' que el vector ' , seleccion[1] )
+
+def op_norma():
+    flag = 1
+    seleccion=[]
+    if(len(vectores)<1):
+        print('debe haber ingresado almenos 1 vector, seleccione la opcion 1 para ingresar vectores')
+        return None
+    while flag<=1:
+        try:
+            print('escoja el vector numero ',flag)
+            mostrar_vectores()
+            seleccion.append(input())
+            flag += 1
+        except:
+            print('la opcion no es valida, ingrese el nombre del vector que desee')
+
+    print('el mayor elemento del vector es ',
+          l.mayor_elemento(vectores[seleccion[0]]))
 
 def principal():
     MENSAJE='''Seleccione una opcion:
@@ -51,21 +184,21 @@ def principal():
         elif opcion=='2':
             mostrar_vectores()
         elif opcion=='3':
-            l.suma()
+            op_suma()
         elif opcion=='4':
-            l.producto_punto()
+            op_producto_punto()
         elif opcion == '5':
-            l.mayor_elemento()
+            op_mayor_elemento()
         elif opcion == '6':
-            l.menor_elemento()
+            op_menor_elemento()
         elif opcion == '7':
-            l.promedio()
+            promedio()
         elif opcion == '8':
-            l.desviacion_estandar()
+            op_desviacion_estandart()
         elif opcion == '9':
-            l.comparar()
+            op_comparar()
         elif opcion == '10':
-            l.norma()
+            op_norma()
 
         else:
             print ('Seleccione una opcion valida')

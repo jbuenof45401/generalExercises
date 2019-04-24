@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cbcebee-e3b5-4d1b-8fb5-853268bc2c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ControlExcepciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funciones_listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problemas_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_for/recorrer_al_revez.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_for/vector_escalar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_for/vectores_menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_for/while_impar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_for/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/unit_test_taller_corte_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicionales.py" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciosIn.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejerciciosIn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_ejercicios.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_ejercicios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/condicionales.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding>
                 <element signature="e#47#583#0" />
                 <element signature="e#640#1390#0" />
@@ -48,36 +39,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="-114">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding>
-                <element signature="e#363#584#2" />
-                <element signature="e#1844#2507#0" />
-                <element signature="e#1489#1708#2" />
-                <element signature="e#2683#3368#0" />
-                <element signature="e#2683#2786#2" />
-                <element signature="e#3395#3694#0" />
-                <element signature="e#3395#3505#2" />
-                <element signature="e#3880#4083#0" />
-                <element signature="e#3995#4133#0" />
-                <element signature="e#3850#4105#0" />
-                <element signature="e#3850#3993#2" />
-                <element signature="e#4284#4775#0" />
-                <element signature="e#4284#4447#2" />
-                <element signature="e#4745#4919#0" />
+                <element signature="e#55#1269#0" />
+                <element signature="e#1318#2677#0" />
+                <element signature="e#2714#3515#0" />
+                <element signature="e#3552#4233#0" />
+                <element signature="e#4264#4694#0" />
+                <element signature="e#4732#5190#0" />
+                <element signature="e#5215#5589#0" />
+                <element signature="e#5632#6312#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py">
+        <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/unit_test_taller_corte_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+            <state relative-caret-position="172">
+              <caret line="38" column="86" selection-start-line="38" selection-start-column="86" selection-end-line="38" selection-end-column="86" />
               <folding>
-                <element signature="e#99#510#0" />
-                <element signature="e#540#616#0" />
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,14 +70,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/while_for/vectores_menu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            <state relative-caret-position="264">
+              <caret line="36" column="69" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="36" selection-end-column="69" />
               <folding>
-                <element signature="e#90#501#0" />
                 <element signature="e#531#607#0" />
+                <element signature="e#1200#1680#0" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/while_for/vector_escalar.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -103,7 +92,18 @@
               <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
-                <element signature="e#94#1844#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="138" column="100" selection-start-line="138" selection-start-column="100" selection-end-line="138" selection-end-column="100" />
+              <folding>
+                <element signature="e#99#510#0" />
               </folding>
             </state>
           </provider>
@@ -140,6 +140,7 @@
         <option value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
         <option value="$PROJECT_DIR$/while_for/vectores_menu.py" />
         <option value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py" />
+        <option value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/unit_test_taller_corte_3.py" />
       </list>
     </option>
   </component>
@@ -154,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,7 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,61 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Doctests in ejercicios de listas">
-    <configuration name="Doctest comparar" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="testingpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="comparar" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_FUNCTION" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Doctest desviacion_estandar" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="testingpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="desviacion_estandar" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_FUNCTION" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Doctest norma" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="testingpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="norma" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_FUNCTION" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar">
     <configuration name="Doctest numero_primo" type="tests" factoryName="Doctests" nameIsGenerated="true">
       <module name="testingpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,24 +209,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/condicionales.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="numero_primo" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_FUNCTION" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Doctest suma" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="testingpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="suma" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_FUNCTION" />
       <option name="PATTERN" value="" />
@@ -304,24 +233,6 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in ejercicios de listas" type="tests" factoryName="Doctests" temporary="true">
-      <module name="testingpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
     <configuration name="Doctests in ejercicios" type="tests" factoryName="Doctests" nameIsGenerated="true">
       <module name="testingpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -340,6 +251,62 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testingpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_desviacion_estandar" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testingpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_test_taller_corte_3.Unit_test_taller_corte_3.test_desviacion_estandar&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_norma" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testingpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_test_taller_corte_3.Unit_test_taller_corte_3.test_norma&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_promedio" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testingpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_test_taller_corte_3.Unit_test_taller_corte_3.test_promedio&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in condicionales.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="testingpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -352,6 +319,20 @@
       <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/condicionales.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in unit_test_taller_corte_3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testingpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while_for/taller_listas_dic_bucles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/while_for/taller_listas_dic_bucles/unit_test_taller_corte_3.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -376,19 +357,19 @@
       <item itemvalue="Python tests.Doctest " />
       <item itemvalue="Python tests.pytest in condicionales.py" />
       <item itemvalue="Python tests.Doctest numero_primo" />
-      <item itemvalue="Python tests.Doctest norma" />
-      <item itemvalue="Python tests.Doctest comparar" />
-      <item itemvalue="Python tests.Doctests in ejercicios de listas" />
-      <item itemvalue="Python tests.Doctest desviacion_estandar" />
-      <item itemvalue="Python tests.Doctest suma" />
+      <item itemvalue="Python tests.Unittests in unit_test_taller_corte_3.py" />
+      <item itemvalue="Python tests.Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_promedio" />
+      <item itemvalue="Python tests.Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_desviacion_estandar" />
+      <item itemvalue="Python tests.Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_norma" />
+      <item itemvalue="Python tests.Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Doctests in ejercicios de listas" />
-        <item itemvalue="Python tests.Doctest suma" />
-        <item itemvalue="Python tests.Doctest desviacion_estandar" />
-        <item itemvalue="Python tests.Doctest comparar" />
-        <item itemvalue="Python tests.Doctest norma" />
+        <item itemvalue="Python tests.Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" />
+        <item itemvalue="Python tests.Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_norma" />
+        <item itemvalue="Python tests.Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_desviacion_estandar" />
+        <item itemvalue="Python tests.Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_promedio" />
+        <item itemvalue="Python tests.Unittests in unit_test_taller_corte_3.py" />
       </list>
     </recent_temporary>
   </component>
@@ -421,35 +402,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Doctest_suma - 2019.04.21 at 21h 36m 53s.xml">
-      <configuration name="Doctest suma" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 11m 04s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_suma - 2019.04.21 at 21h 37m 25s.xml">
-      <configuration name="Doctest suma" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 11m 37s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_ejercicios_de_listas - 2019.04.21 at 21h 38m 44s.xml">
-      <configuration name="Doctests in ejercicios de listas" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 11m 52s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_suma - 2019.04.21 at 21h 53m 59s.xml">
-      <configuration name="Doctest suma" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 12m 12s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_suma - 2019.04.21 at 21h 54m 35s.xml">
-      <configuration name="Doctest suma" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 12m 47s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_suma - 2019.04.21 at 21h 55m 40s.xml">
-      <configuration name="Doctest suma" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 12m 54s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_suma - 2019.04.21 at 21h 55m 53s.xml">
-      <configuration name="Doctest suma" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 13m 05s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_suma - 2019.04.21 at 21h 58m 14s.xml">
-      <configuration name="Doctest suma" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 13m 14s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_suma - 2019.04.21 at 21h 59m 46s.xml">
-      <configuration name="Doctest suma" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 13m 40s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_ejercicios_de_listas - 2019.04.21 at 21h 59m 58s.xml">
-      <configuration name="Doctests in ejercicios de listas" configurationId="tests" />
+    <history-entry file="Unittests_for_unit_test_taller_corte_3_Unit_test_taller_corte_3_test_comparar - 2019.04.23 at 19h 13m 47s.xml">
+      <configuration name="Unittests for unit_test_taller_corte_3.Unit_test_taller_corte_3.test_comparar" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -466,7 +447,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -474,7 +455,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.58615136" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.58615136" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -603,21 +584,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_ejercicios.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#94#1844#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/condicionales.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
             <element signature="e#47#583#0" />
             <element signature="e#640#1390#0" />
@@ -629,47 +599,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py">
+    <entry file="file://$PROJECT_DIR$/while_for/vector_escalar.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while_for/vectores_menu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="264">
+          <caret line="36" column="69" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="36" selection-end-column="69" />
           <folding>
-            <element signature="e#363#584#2" />
-            <element signature="e#1844#2507#0" />
-            <element signature="e#1489#1708#2" />
-            <element signature="e#2683#3368#0" />
-            <element signature="e#2683#2786#2" />
-            <element signature="e#3395#3694#0" />
-            <element signature="e#3395#3505#2" />
-            <element signature="e#3880#4083#0" />
-            <element signature="e#3995#4133#0" />
-            <element signature="e#3850#4105#0" />
-            <element signature="e#3850#3993#2" />
-            <element signature="e#4284#4775#0" />
-            <element signature="e#4284#4447#2" />
-            <element signature="e#4745#4919#0" />
+            <element signature="e#531#607#0" />
+            <element signature="e#1200#1680#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/while_for/vectores_menu.py">
+    <entry file="file://$PROJECT_DIR$/test_ejercicios.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
           <folding>
-            <element signature="e#90#501#0" />
-            <element signature="e#531#607#0" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/menu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        <state relative-caret-position="731">
+          <caret line="138" column="100" selection-start-line="138" selection-start-column="100" selection-end-line="138" selection-end-column="100" />
           <folding>
             <element signature="e#99#510#0" />
-            <element signature="e#540#616#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/ejercicios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#55#1269#0" />
+            <element signature="e#1318#2677#0" />
+            <element signature="e#2714#3515#0" />
+            <element signature="e#3552#4233#0" />
+            <element signature="e#4264#4694#0" />
+            <element signature="e#4732#5190#0" />
+            <element signature="e#5215#5589#0" />
+            <element signature="e#5632#6312#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while_for/taller_listas_dic_bucles/unit_test_taller_corte_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="38" column="86" selection-start-line="38" selection-start-column="86" selection-end-line="38" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
