@@ -36,6 +36,20 @@ def op_producto_escalar():
     print('El producto escalar es ',
           prod_escalar.producto_escalar(escalar,vectores[seleccion]))
 
+def op_leer_matriz():
+    '''
+    Lee una matriz por teclado
+    :return:(list of list of int) la matriz del usuario
+    '''
+    resultado = []
+    while True:
+        entrada = input('desea ingresar una fila? s/n')
+        if entrada == 'n':
+            break
+        resultado.append(ingresar_vector()[1:])
+        return resultado
+
+
 def principal():
     MENSAJE='''Seleccione una opcion:
     0. Salir
@@ -57,6 +71,8 @@ def principal():
             mostrar_vectores()
         elif opcion=='3':
             op_producto_escalar()
+        elif opcion=='4':
+            op_leer_matriz()
         else:
             print ('Seleccione una opcion valida')
 
