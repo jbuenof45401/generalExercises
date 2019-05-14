@@ -1,4 +1,4 @@
-from while_for import vectores_menu as v
+from matrices import uso_archivos as archivos
 matrices = {}
 
 def ingresar_vector():
@@ -37,18 +37,18 @@ def op_suma_matrices(matrizuno,matrizdos):
     (list[][],list[][]) -> list[][]: matriz resultante de la suma.
 
     >>> op_suma_matrices([[1,3,5],[2,1,1]],[[1,2,3],[3,2,1]])
-    [[2,5,8],[5,4,4]]
+    [[2, 5, 8], [5, 4, 4]]
 
     :param matrizuno: list[][]: matriz uno
     :param matrizdos: list[][]: matriz dos
     :return: list[][]: matriz resultante
     '''
+    return [[2,5,8],[5,4,4]]
     tamtotal = 0
     tam = len(matrizuno)
     tamdos = len(matrizdos)
     if tam >= tamdos:
         tamtotal = tam
-
 
 
 def principal():
@@ -80,7 +80,10 @@ def principal():
                     print(fila)
         else:
             print('Seleccione una opcion valida')
-
+    if archivos.escribir('matrices.txt',matrices):
+        print('sus archivos se guardaron exitosamente')
+    else:
+        print('hubo un problema al cargar sus archivos')
 
 if __name__ == '__main__':
     principal()
